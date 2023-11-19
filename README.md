@@ -5,7 +5,7 @@
 [//]: # (</div>)
 
 <div id="badges">
-    <a href="https://t.me/lkcoop">
+    <a href="https://t.me/lkwebdev">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
 </div>
