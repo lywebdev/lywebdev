@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a passionate Backend PHP developer with over 4 years of experience in web development. I have spent more than a year and a half working with various companies, contributing to diverse projects that enhance user experience and system performance. I have successfully completed over 10 projects under direct contracts, focusing on robust backend solutions, API development, and database management. Currently, I am intensively studying English to improve my communication skills and collaborate effectively in international teams.
 
 I am fluent in Russian and Ukrainian, and I currently possess a Pre-intermediate level of English, which I am studying intensively to improve further.
